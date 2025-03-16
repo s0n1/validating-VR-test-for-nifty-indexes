@@ -64,9 +64,16 @@ Alternative liquidity estimators (e.g., Corwin-Schultz).
 Extensions to mid/small-cap indices.
 
 ## 📜 License
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the MIT License.
+MIT License
 
-##🙏 Acknowledgments
+Copyright (c) 2025 Nischay Soni
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal
+in the Software without restriction.
+
+## 🙏 Acknowledgments
 Data sourced from NSE India.
 
 Methodological guidance from Fama (1970) and Roll (1984).
