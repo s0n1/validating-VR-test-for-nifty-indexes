@@ -36,7 +36,7 @@ This repository contains code and data for analyzing weak-form market efficiency
    cd indian-market-efficiency  
 
 
-##📊 Results
+## 📊 Results
 Index	Interval	VR(10)	Roll Spread (Daily)
 Nifty50	Weekly	1.117	0.00
 Nifty100	Daily	0.960	48.74
@@ -47,7 +47,7 @@ High-frequency spreads reflect microstructure noise.
 
 Daily spreads during COVID-19 (e.g., Nifty100: 48.74) indicate liquidity shocks.
 
-##📄 Related Paper
+## 📄 Related Paper
 A detailed manuscript titled "Market Efficiency and Liquidity Dynamics in Indian Equity Indices: A Multi-Frequency Analysis" is under review and will be published soon. Key contributions include:
 
 Critique of closing-price-based liquidity metrics.
@@ -56,14 +56,14 @@ Policy recommendations for improving data transparency in emerging markets.
 
 Citation (to be updated post-publication):
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Open an issue or submit a PR for:
 
 Alternative liquidity estimators (e.g., Corwin-Schultz).
 
 Extensions to mid/small-cap indices.
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License. See LICENSE for details.
 
 ##🙏 Acknowledgments
