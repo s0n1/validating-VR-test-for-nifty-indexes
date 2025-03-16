@@ -8,7 +8,7 @@
 ---
 
 ## 📜 Overview  
-This repository contains code and data for analyzing weak-form market efficiency and liquidity dynamics in India’s benchmark indices (**Nifty50, Nifty100, Nifty200**) across 15-minute, hourly, daily, and weekly intervals (2016–2023). The study employs:  
+This repository contains code and data for analyzing weak-form market efficiency and liquidity dynamics in India’s benchmark indices (**Nifty50, Nifty100, Nifty200**) across 15-minute, hourly, daily, and weekly intervals (jan 2016–Dec 2024). The study employs:  
 - **Variance Ratio (VR) Tests** to detect deviations from the random walk hypothesis.  
 - **Roll Model** to estimate bid-ask spreads and assess liquidity anomalies.  
 
