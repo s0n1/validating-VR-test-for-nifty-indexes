@@ -25,7 +25,7 @@ This repository contains code and data for analyzing weak-form market efficiency
   - Lo-MacKinlay Variance Ratio test with heteroskedasticity-robust adjustments.  
   - Roll spread estimator with covariance checks.  
 - **Visualization**: Interactive plots for VR trends, spread dynamics, and crisis periods (e.g., COVID-19).  
-- **Dataset**: Preprocessed OHLC data for Nifty indices (2016–2023).  
+- **Dataset**: Preprocessed OHLC data for Nifty indices (jan 2016–Dec 2024).  
 
 ---
 
