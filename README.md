@@ -1,8 +1,8 @@
 # Market Efficiency and Liquidity Dynamics in Indian Equity Indices  
-**A Multi-Frequency Analysis (2016–2023)**  
+**A Multi-Frequency Analysis (jan 2016–Dec 2024)**  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-**Authors**: [Your Name]  
+**Authors**: Nischay Soni 
 **Paper Status**: *Preprint under review. Manuscript will be published soon.*  
 
 ---
@@ -34,3 +34,39 @@ This repository contains code and data for analyzing weak-form market efficiency
    ```bash  
    git clone https://github.com/yourusername/indian-market-efficiency.git  
    cd indian-market-efficiency  
+
+
+##📊 Results
+Index	Interval	VR(10)	Roll Spread (Daily)
+Nifty50	Weekly	1.117	0.00
+Nifty100	Daily	0.960	48.74
+Nifty200	15-minute	1.066	3.17
+Interpretation:
+
+High-frequency spreads reflect microstructure noise.
+
+Daily spreads during COVID-19 (e.g., Nifty100: 48.74) indicate liquidity shocks.
+
+##📄 Related Paper
+A detailed manuscript titled "Market Efficiency and Liquidity Dynamics in Indian Equity Indices: A Multi-Frequency Analysis" is under review and will be published soon. Key contributions include:
+
+Critique of closing-price-based liquidity metrics.
+
+Policy recommendations for improving data transparency in emerging markets.
+
+Citation (to be updated post-publication):
+
+##🤝 Contributing
+Contributions are welcome! Open an issue or submit a PR for:
+
+Alternative liquidity estimators (e.g., Corwin-Schultz).
+
+Extensions to mid/small-cap indices.
+
+##📜 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+##🙏 Acknowledgments
+Data sourced from NSE India.
+
+Methodological guidance from Fama (1970) and Roll (1984).
